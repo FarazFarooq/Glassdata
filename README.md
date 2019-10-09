@@ -18,7 +18,7 @@ Libraries Required:
 6.	SciPy
 
 Link to Notebook:
-https://github.com/FarazFarooq/Glassdata/blob/master/GlassData.ipynb
+https://github.com/FarazFarooq/Glassdata/blob/master/GlassDataFarazFarooq.ipynb
 
 Author:
 Faraz Farooq
