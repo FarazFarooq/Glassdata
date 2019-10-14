@@ -18,11 +18,13 @@ Libraries Required:
 6.	SciPy
 
 Link to Notebook:
-https://github.com/FarazFarooq/Glassdata/blob/master/GlassDataFarazFarooq.ipynb
+https://github.com/FarazFarooq/Glassdata/blob/master/GlassDataclassification.ipynb
 
 Author:
 Faraz Farooq
 
-
+Acknowledgements:
+https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
+https://medium.com/all-things-ai/in-depth-parameter-tuning-for-random-forest-d67bb7e920d
 
  
